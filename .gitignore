@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+bin/*
+*.ninja*
+CMakeCache.txt
+CMakeFiles/*
+*.cmake
